@@ -1,4 +1,4 @@
-# Self playing tetris model
+# Self playing tetris
 This repository contains files to train and test models to play tetris. this is a simple example of reinforcement learning that I did over the summer
 
 ## Installation
