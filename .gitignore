@@ -2,3 +2,4 @@ tensorboard
 env
 trained_models
 __pycache__
+.DS_Store
