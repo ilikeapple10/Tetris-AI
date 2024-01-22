@@ -1,0 +1,4 @@
+tensorboard
+env
+trained_models
+__pycache__
